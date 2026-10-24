@@ -1,0 +1,22 @@
+# =============================================================================
+# REQUIREMENTS.TXT - MATLAB CALCULATOR & ENGINEERING SUITE DEPENDENCIES
+# =============================================================================
+# Python Version: 3.10 - 3.12 (Tested on Python 3.12.9)
+# MATLAB Version: MATLAB R2026b (or compatible R2024b/R2025a/R2026a)
+# =============================================================================
+
+# GUI Framework & UI Theme
+customtkinter>=5.2.0
+pillow>=10.0.0
+
+# Scientific, Engineering & Numerical Computation
+numpy>=1.26.0
+scipy>=1.12.0
+sympy>=1.12.0
+matplotlib>=3.8.0
+
+# Study Hub & PDF Syllabus Rendering
+pymupdf>=1.24.0
+
+# Official MATLAB Engine API for Python (Requires MATLAB R2026b installed)
+matlabengine>=26.2.0

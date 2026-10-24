@@ -1,0 +1,115 @@
+================================================================================
+FINAL PROJECT REPORT - ELECTRICAL CIRCUITS ENGINE
+STUDENTS: GONZALES, IVAN LAWRENCE F. & LO NIEVA, STEVEN
+SECTION: BSCPE241B | DATE: OCTOBER 5, 2026 | STATUS: VERIFIED [/]
+================================================================================
+
+[OHMS LAW CALCULATION]
+> Voltage (V)    = 12.000 V
+> Current (I)    = 3.000 A (3000.0 mA)
+> Resistance (R) = 4.000 Ω
+> Power (P)      = 36.000 W
+
+Timestamp: 2026-10-08 14:32:39.267413
+
+[OHMS LAW CALCULATION]
+> Voltage (V)    = 34.000 V
+> Current (I)    = 2.000 A (2000.0 mA)
+> Resistance (R) = 17.000 Ω
+> Power (P)      = 68.000 W
+
+Timestamp: 2026-10-08 14:54:34.917126
+
+[OHMS LAW CALCULATION]
+> Voltage (V)    = 12.000 V
+> Current (I)    = 3.000 A (3000.0 mA)
+> Resistance (R) = 4.000 Ω
+> Power (P)      = 36.000 W
+
+Timestamp: 2026-10-08 14:54:48.112120
+
+[AC RLC CIRCUIT ANALYSIS]
+> Reactance: XL = 56.55 Ω, XC = 56.44 Ω (Xnet = 0.11 Ω)
+> Impedance: |Z| = 50.00 Ω  ∠0.13°
+> Peak Current (Im) = 2.400 A (2400.0 mA) | Irms = 1.697 A
+> Power Factor (cos φ) = 1.0000 [Lagging (Inductive)]
+> Real Power (P) = 144.00 W | Reactive Power (Q) = 0.32 VAR
+> Apparent Power (S) = 144.00 VA
+
+Timestamp: 2026-10-08 14:54:59.015407
+
+[OHMS LAW CALCULATION]
+> Voltage (V)    = 12.000 V
+> Current (I)    = 3.000 A (3000.0 mA)
+> Resistance (R) = 4.000 Ω
+> Power (P)      = 36.000 W
+
+Timestamp: 2026-10-08 16:20:21.363134
+
+[SERIES/PARALLEL RESISTORS - SERIES]
+> Equivalent Resistance (Req) = 650.000 Ω
+> Total Loop Current (Itot)    = 18.46 mA
+> Total Power Dissipation      = 0.222 W
+> Voltage Drops: V_R1=1.85V, V_R2=4.06V, V_R3=6.09V
+
+Timestamp: 2026-10-08 16:24:25.227205
+
+[OHMS LAW CALCULATION]
+> Voltage (V)    = 12.000 V
+> Current (I)    = 3.000 A (3000.0 mA)
+> Resistance (R) = 4.000 Ω
+> Power (P)      = 36.000 W
+
+Timestamp: 2026-10-08 16:24:26.552642
+
+[OHMS LAW CALCULATION]
+> Voltage (V)    = 12.000 V
+> Current (I)    = 1.500 A (1500.0 mA)
+> Resistance (R) = 8.000 Ω
+> Power (P)      = 18.000 W
+
+Timestamp: 2026-10-08 16:25:14.038840
+
+[OHMS LAW CALCULATION]
+> Voltage (V)    = 12.000 V
+> Current (I)    = 1.500 A (1500.0 mA)
+> Resistance (R) = 8.000 Ω
+> Power (P)      = 18.000 W
+
+Timestamp: 2026-10-08 16:26:53.976228
+
+[SERIES/PARALLEL RESISTORS - SERIES]
+> Equivalent Resistance (Req) = 650.000 Ω
+> Total Loop Current (Itot)    = 18.46 mA
+> Total Power Dissipation      = 0.222 W
+> Voltage Drops: V_R1=1.85V, V_R2=4.06V, V_R3=6.09V
+
+Timestamp: 2026-10-08 17:01:12.829260
+
+[OHMS LAW CALCULATION]
+> Voltage (V)    = 12.000 V
+> Current (I)    = 3.000 A (3000.0 mA)
+> Resistance (R) = 4.000 Ω
+> Power (P)      = 36.000 W
+
+Timestamp: 2026-10-08 17:02:58.572535
+
+[SERIES/PARALLEL RESISTORS - SERIES]
+> Equivalent Resistance (Req) = 650.000 Ω
+> Total Loop Current (Itot)    = 18.46 mA
+> Total Power Dissipation      = 0.222 W
+> Voltage Drops: V_R1=1.85V, V_R2=4.06V, V_R3=6.09V
+
+Timestamp: 2026-10-08 17:03:28.250079
+
+[AC RLC CIRCUIT ANALYSIS]
+> Reactance: XL = 56.55 Ω, XC = 56.44 Ω (Xnet = 0.11 Ω)
+> Impedance: |Z| = 50.00 Ω  ∠0.13°
+> Peak Current (Im) = 2.400 A (2400.0 mA) | Irms = 1.697 A
+> Power Factor (cos φ) = 1.0000 [Lagging (Inductive)]
+> Real Power (P) = 144.00 W | Reactive Power (Q) = 0.32 VAR
+> Apparent Power (S) = 144.00 VA
+
+Timestamp: 2026-10-08 17:03:32.113496
+
+Report Generated at: 2026-10-08 17:06:01
