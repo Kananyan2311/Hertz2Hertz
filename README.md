@@ -1,5 +1,5 @@
 # 🍋 HERTZ2HERTZ — Numerical Analysis & Circuit Simulation Lab
-### *Lemon Beach Edition • Neobrutalist Desktop Operating Environment*
+### *ELECTRONICS CALCULATOR USING MATLAB AND PYTHON GUI*
 
 <div align="center">
 
