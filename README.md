@@ -8,7 +8,7 @@
  | || | __| _ \_   _|_  ) _ \ || | __| _ \_   _|_  )
  | __ | _||   / | |  / /|   / __ | _||   / | |  / / 
  |_||_|___|_|_\ |_| /___|_|_\_||_|___|_|_\ |_| /___|
-          ~ L E M O N   B E A C H   E D I T I O N ~  
+          ~ STAN HEARTS 2 HEARTS ~  
 ```
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
